@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">shiza shifr</string>
+    <string name="message_res" translatable="false">Напишите текст</string>
+    <string name="key_res" translatable="false">Напишите число</string>
+    <string name="encrypt_res" translatable="false">Зашифровать</string>
+    <string name="key_reс" translatable="false">Зашифрованный текст</string>
+    <string name="main_res" translatable="false">ШИФР ЦЕЗАРЯ</string>
+</resources>
